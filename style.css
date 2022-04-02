@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik+Glitch&display=swap');
+body{
+   
+    color: white;   
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(92, 235, 92), rgb(70, 70, 253), #fb3958);
+    /* background: url(2471305.gif); */
+
+}
+
+h1{
+    
+font-family: 'Rubik Glitch', cursive;
+}
+
+
+ #a1 {background-color:  #0e76a8;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30pt;
+    margin: auto;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    
+    
+
+}
+
+
+ #a1:hover{
+    width: 155px;
+    height: 155px;
+    background: url(b2.png);
+    font-size: 0;
+    background-position: center;
+    background-size: 160px;
+    margin: auto;
+
+}
+
+ #a2 {
+       background-color: #25d366;
+       width: 150px;
+       height: 150px;
+       border-radius: 10px;
+       font-family: 'Bebas Neue', cursive;
+       font-size: 30pt;
+       margin: auto;
+       box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    
+ }
+
+ #a2:hover{
+        width: 155px;
+        height: 155px;
+        background: url(b1.png);
+        background-position: center;
+        background-size: 193px;
+        font-size: 0;
+    }
+
+
+
+  #a3 {
+       background-image: linear-gradient(to right, #fdbf22, #fb3958,  #458eff );
+       width: 150px;
+       height: 150px;
+       border-radius: 10px;
+       font-family: 'Bebas Neue', cursive;
+       font-size: 30pt;
+       margin: auto;
+       box-shadow: 2px 2px 5px rgb(0, 0, 0);
+       
+
+    }
+
+
+
+
+ #a3:hover{
+        width: 155px;
+        height: 155px;
+        background: url(baixados.png);
+        background-repeat: no-repeat;
+        background-position: center;  
+        background-size: 175px;
+        font-size: 0;
+        
+    }
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
